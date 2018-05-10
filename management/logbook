@@ -6,6 +6,21 @@ jjazz47:
 -Set up project directories
 -Create 4 issues for projects
 -Update logfile
+
 Avinash:
+
 Anand:
+
+5/10/2018
+All:
+-Created WBS for phase 1
+-Writing unit testable code as a requirement
+-Decided to use sensor to detect obstacle on door (simulate)
+-Decided to use buzzer to indicate floor arrival.
+
+jjazz47:
+-Helped Avinash with git issues
+-Validated Anand, jjazz47, avinash and Axman board's CAN
+ Bus with Peak CAN Usb to CAN adapter
+-Added Validation folder to the repository
 
