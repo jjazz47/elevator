@@ -7,7 +7,10 @@ jjazz47:
 -Create 4 issues for projects
 -Update logfile
 
+5/12/2018
 Avinash:
+-Modified CANBUS code provided by Mike, so that read function works
+-added loopback feature to see data read from board is sent to the PC
 
 Anand:
 -Downloaded git bash
