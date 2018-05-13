@@ -1,0 +1,5 @@
+To use Linux Kernel's checkpatch.pl to check code style, Run the installation
+script:
+$ ./install_precommit_hook.sh
+
+--jjazz47
