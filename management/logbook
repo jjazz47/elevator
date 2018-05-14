@@ -1,0 +1,46 @@
+5/9/2018
+jjazz47:
+-Set up project github repository
+-Help Anand and Avinash with github/git issues
+-Create 2 practice issues for Anand and Avinash
+-Set up project directories
+-Create 4 issues for projects
+-Update logfile
+
+5/12/2018
+Avinash:
+-Modified CANBUS code provided by Mike, so that read function works
+-added loopback feature to see data read from board is sent to the PC
+
+Anand:
+-Downloaded git bash
+-Created github account
+-Learned git basics
+-Created management folder
+-Note: always use rebase and merge
+
+5/10/2018
+All:
+-Created WBS for phase 1
+-Writing unit testable code as a requirement
+-Decided to use sensor to detect obstacle on door (simulate)
+-Decided to use buzzer to indicate floor arrival.
+
+jjazz47:
+-Helped Avinash with git issues
+-Validated Anand, jjazz47, avinash and Axman board's CAN
+ Bus with Peak CAN Usb to CAN adapter
+-Added Validation folder to the repository
+
+Anand:
+-Set up local host on windows and lunix
+-Linux username: anand-queue password: Conestoga2015
+-Created MS project schedule from WBS
+
+5/13/2018
+jjazz47:
+-Implemented code styling checker infrastructure
+ 1. Include Linux Kernel code styling checker
+ 2. Wrote an git pre-commit hook installation script
+-perform github branch management duties
+-Created github issues
