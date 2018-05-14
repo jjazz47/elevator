@@ -7,11 +7,6 @@ jjazz47:
 -Create 4 issues for projects
 -Update logfile
 
-5/12/2018
-Avinash:
--Modified CANBUS code provided by Mike, so that read function works
--added loopback feature to see data read from board is sent to the PC
-
 Anand:
 -Downloaded git bash
 -Created github account
@@ -37,6 +32,11 @@ Anand:
 -Linux username: anand-queue password: Conestoga2015
 -Created MS project schedule from WBS
 
+5/12/2018
+Avinash:
+-Modified CANBUS code provided by Mike, so that read function works
+-added loopback feature to see data read from board is sent to the PC
+
 5/13/2018
 jjazz47:
 -Implemented code styling checker infrastructure
@@ -44,3 +44,8 @@ jjazz47:
  2. Wrote an git pre-commit hook installation script
 -perform github branch management duties
 -Created github issues
+
+5/14/2018
+Anand:
+-Updated MS Project
+-Created issue for logbook for week 2
