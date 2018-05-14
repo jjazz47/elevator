@@ -37,3 +37,10 @@ Anand:
 -Linux username: anand-queue password: Conestoga2015
 -Created MS project schedule from WBS
 
+5/13/2018
+jjazz47:
+-Implemented code styling checker infrastructure
+ 1. Include Linux Kernel code styling checker
+ 2. Wrote an git pre-commit hook installation script
+-perform github branch management duties
+-Created github issues
