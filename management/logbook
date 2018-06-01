@@ -49,3 +49,47 @@ jjazz47:
 Anand:
 -Updated MS Project
 -Created issue for logbook for week 2
+
+5/16/2018
+All:
+-Finished Homework 1 for Data Comm
+
+5/17/2018
+All:
+-Re-evaluated and submitted Homework 1
+
+5/20/2018
+All:
+-Started on push button schematic design for calling elevator
+-Established Port B4 and B5 will be used for calling elevator
+
+5/22/2018
+All:
+-Supervisory control code
+-CAN Bus API
+-Fixed CAN Bus Cable
+
+Avinash:
+-Infrared sensor testing
+-Purchased new sensor
+
+5/23/2018
+All:
+-Completed Assignment 1 part 1 for software engineering
+
+5/24/2018
+All:
+-Finished schematic capture of floor push buttons
+
+5/25/2018
+All:
+-Soldered pins for Port B4 and B5 on to embedded board
+-Verified push button schematic on the HCS12 using LEDS
+-Status Report for Week 3
+
+5/26/2018
+All:
+-Identifying next steps:
+ 1. Need to purchase more push bottons for 'inside' elevator
+ 2. Implement LCD 'inside' elevator car and on each floor
+ 3. Implement Buzzer 'inside' elevator
